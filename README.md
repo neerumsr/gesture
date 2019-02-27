@@ -2,8 +2,6 @@
 
 Supported Gestures:
 
-Supported gestures
-
 TouchType
     onDoubleTap
     onScroll(direction)
@@ -13,7 +11,7 @@ TouchType
     onLongPress
     onTwoFingerSingleTap
     onThreeFingerSingleTap
-    
+
 Flip
   onFaceUp
   onFaceDown
